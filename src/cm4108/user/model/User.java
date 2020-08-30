@@ -1,6 +1,6 @@
 package cm4108.user.model;
 //Author: S M ABDULLAH FERDOUS
-//Cloud computing coursework
+//Cloud computing
 
 import com.amazonaws.services.dynamodbv2.datamodeling.*;
 
